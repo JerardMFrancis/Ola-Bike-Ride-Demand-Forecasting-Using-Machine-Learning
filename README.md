@@ -60,7 +60,6 @@ This project predicts Ola bike ride demand using Machine Learning techniques. Th
 - Dashboard deployment using Streamlit or Flask
 
 ---
-
 ## Author
 
 Jerard M Francis
